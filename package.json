@@ -30,6 +30,6 @@
   },
   "devDependencies": {
     "jest": "23.1.0",
-    "webpack": "4.12.0"
+    "webpack": "4.20.2"
   }
 }
